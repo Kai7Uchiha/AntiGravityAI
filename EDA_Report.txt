@@ -1,0 +1,56 @@
+=== EDA_Report ===
+
+Dataset Shape: 150 rows, 5 columns
+
+=== Column Information ===
+
+sepal length (cm):
+  Type: float64
+  Missing: 0 (0.0%)
+  Unique values: 35
+  Min: 4.3
+  Max: 7.9
+  Mean: 5.84
+  Median: 5.80
+
+sepal width (cm):
+  Type: float64
+  Missing: 0 (0.0%)
+  Unique values: 23
+  Min: 2.0
+  Max: 4.4
+  Mean: 3.06
+  Median: 3.00
+
+petal length (cm):
+  Type: float64
+  Missing: 0 (0.0%)
+  Unique values: 43
+  Min: 1.0
+  Max: 6.9
+  Mean: 3.76
+  Median: 4.35
+
+petal width (cm):
+  Type: float64
+  Missing: 0 (0.0%)
+  Unique values: 22
+  Min: 0.1
+  Max: 2.5
+  Mean: 1.20
+  Median: 1.30
+
+target:
+  Type: int64
+  Missing: 0 (0.0%)
+  Unique values: 3
+  Min: 0
+  Max: 2
+  Mean: 1.00
+  Median: 1.00
+
+=== Missing Values Summary ===
+  No missing values found!
+
+=== Duplicate Rows ===
+  Duplicate rows: 1
